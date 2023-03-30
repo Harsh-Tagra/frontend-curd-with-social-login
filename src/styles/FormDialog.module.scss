@@ -1,0 +1,11 @@
+.password {
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  /*Big smartphones [426px -> 600px]*/
+  .password {
+    display: block;
+  }
+}
