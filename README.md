@@ -27,6 +27,9 @@ pnpm dev
 <image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_57_19.png">
   
 <image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_57_34.png">
+   
+<image src=" https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_13_10_21.png">
+ 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
