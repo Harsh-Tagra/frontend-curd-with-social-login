@@ -12,23 +12,22 @@ yarn dev
 pnpm dev
 ```
 
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_38_21.png">
+<image src="./readme/Screenshot_2023-03-30_12_38_21.png">
 
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_54_18.png">
+<image src="./readme/Screenshot_2023-03-30_12_54_18.png">
   
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_52_20.png">
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_50_46.png">
+<image src="./readme/Screenshot_2023-03-30_12_52_20.png">
+<image src="./readme/Screenshot_2023-03-30_12_50_46.png">
 
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_51_46.png">
+<image src="./readme/Screenshot_2023-03-30_12_51_46.png">
 
+<image src="./readme/Screenshot_2023-03-30_12_26_21.png">
 
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_26_21.png">
-
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_57_19.png">
+<image src="./readme/Screenshot_2023-03-30_12_57_19.png">
   
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_12_57_34.png">
+<image src="./readme/Screenshot_2023-03-30_12_57_34.png">
    
-<image src="https://harshtagra.s3.ap-south-1.amazonaws.com/readme/Screenshot_2023-03-30_13_10_21.png">
+<image src="./readme/Screenshot_2023-03-30_13_10_21.png">
  
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
